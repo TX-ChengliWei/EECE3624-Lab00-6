@@ -1,2 +1,10 @@
 Hello world (client side).
 Hello world (server side).
+
+
+Hello, I made these changes on the file that I forked (copied) from your files. Now we are collaborators.
+I want to merge my changes to your file now. You can accept my pull or decline any of the changes. Try to decline some and accept some.
+
+1 +1 =3
+2+2 =4
+
